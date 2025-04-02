@@ -20,7 +20,7 @@ PojavLauncher uses JRE (Java Runtime Environment) builds for AArch32/64 (ARM32/6
 
 Required Settings
 
-To ensure everything works correctly, set the renderer to LTW (OpenGL ES 3) and use Java 17.
+To ensure everything works correctly, set the renderer to LTW (OpenGL ES 3) or Zink (Vulkan) and use Java 17.
 
 ## Mods:
 
