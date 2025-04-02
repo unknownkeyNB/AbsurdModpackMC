@@ -24,6 +24,9 @@ To ensure everything works correctly, set the renderer to LTW (OpenGL ES 3) or Z
 
 ## Mods:
 
+<details>
+<summary>Mods list</summary>
+
 ```
 AppleSkin
 Architectury
@@ -35,6 +38,12 @@ Cloth Config v8
 CompleteConfig
 Concurrent Chunk Management Engine
 Continuity
+Create
+Create Fabric Fixes
+Create Slice & Dice
+Create's Delight
+Create: Copycats+
+CreateFabric&REIBugFix
 CustomSkinLoader
 Dark Loading Screen
 Early Loading Screen
@@ -45,6 +54,7 @@ Entity Texture Features
 EntityCulling-Fabric
 Fabric API
 Fabric Language Kotlin
+Farmer's Delight
 FastAnim
 FerriteCore
 Fix Keyboard on Linux
@@ -53,12 +63,15 @@ Forget Me Chunk
 GPU Tape
 Indium
 Iris
+Iris Flywheel Compat
 Ksyxis
 LazyDFU
 Lithium
 Memory Leak Fix
 Mod Menu
+Motion Capture
 Packet Fixer
+Reese's Sodium Options
 Roughly Enough Items
 Shulker Box Tooltip
 Smooth Boot
@@ -74,3 +87,5 @@ YOSBR
 Zume
 lazy-language-loader
 ```
+
+</details>
