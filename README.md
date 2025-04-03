@@ -18,7 +18,7 @@ Graphics translation is not 100% perfect—some errors and bugs may still occur.
 
 PojavLauncher uses JRE (Java Runtime Environment) builds for AArch32/64 (ARM32/64), which allow Minecraft to run on mobile devices. However, performance on ARM processors differs from x86 processors, requiring custom mod configurations to achieve the best experience.
 
-Required Settings
+## Required Settings
 
 To ensure everything works correctly, set the renderer to LTW (OpenGL ES 3) or Zink (Vulkan) and use Java 17.
 
