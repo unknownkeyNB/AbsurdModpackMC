@@ -26,7 +26,6 @@ To ensure everything works correctly, set the renderer to LTW (OpenGL ES 3) or Z
 
 <details>
 <summary>Mods list</summary>
-
 ```
 AppleSkin
 Architectury
@@ -87,5 +86,4 @@ YOSBR
 Zume
 lazy-language-loader
 ```
-
 </details>
