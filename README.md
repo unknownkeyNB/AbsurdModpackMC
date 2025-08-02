@@ -1,89 +1,32 @@
+## ATTENTION ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+you cant download modpack yet, it gonna be available when i gonna complete V7
+
 ## About this Modpack
 
-Absurd is a Minecraft modpack designed specifically for PojavLauncher, aiming to improve performance and provide a smooth gaming experience on Fabric.
+Absurd is a MCJE modpack mostly created for me(and my friends) on Fabric(since V6 its on NeoForge). But you can try it out!
 
-## About PojavLauncher
+## Compatibility
 
-PojavLauncher is a flexible, fast, and open-source Minecraft: Java Edition launcher for Android and iOS.
+Its fully compatible with PojavLauncher(and its forks)!
 
-## Why I made this modpack
+Tested on Helio G80 + Mali G52 MC2 (70+ FPS)
 
-Due to the significant differences between ARM and x86 architectures, developers need to adapt APIs (Application Programming Interfaces) for compatibility. This modpack optimizes the experience for ARM-based devices.
+## Settings
 
-## Graphics Compatibility
+___Instance___
 
-Graphics translation is not 100% perfect—some errors and bugs may still occur. Additionally, certain renderers may not support all mods.
+LTW renderer(recommended) or Zink(not tested)
 
-## Java and Performance
+Java 17(V5 or below) Java 21(V6 and higher)
 
-PojavLauncher uses JRE (Java Runtime Environment) builds for AArch32/64 (ARM32/64), which allow Minecraft to run on mobile devices. However, performance on ARM processors differs from x86 processors, requiring custom mod configurations to achieve the best experience.
+___In-Game___
 
-## Required Settings
+by default the modpack comes with the settings I play with
+these settings are something of a balance beetwen a performance and a fancy graphics(idk how it named)
 
-To ensure everything works correctly, set the renderer to LTW (OpenGL ES 3) or Zink (Vulkan) and use Java 17.
+## License
 
-## Mods:
+MIT
 
-<details>
-<summary>Mods list</summary>
-```
-AppleSkin
-Architectury
-BedrockIfy
-Better Log4j Config
-Chunky
-ClickThrough Plus
-Cloth Config v8
-CompleteConfig
-Concurrent Chunk Management Engine
-Continuity
-Create
-Create Fabric Fixes
-Create Slice & Dice
-Create's Delight
-Create: Copycats+
-CreateFabric&REIBugFix
-CustomSkinLoader
-Dark Loading Screen
-Early Loading Screen
-Enchantment Level Language Patch
-Enhanced Block Entities
-Entity Model Features
-Entity Texture Features
-EntityCulling-Fabric
-Fabric API
-Fabric Language Kotlin
-Farmer's Delight
-FastAnim
-FerriteCore
-Fix Keyboard on Linux
-Forge Config API Port
-Forget Me Chunk
-GPU Tape
-Indium
-Iris
-Iris Flywheel Compat
-Ksyxis
-LazyDFU
-Lithium
-Memory Leak Fix
-Mod Menu
-Motion Capture
-Packet Fixer
-Reese's Sodium Options
-Roughly Enough Items
-Shulker Box Tooltip
-Smooth Boot
-Sodium
-Sodium Extra
-Sodium Occlusion Culling Fix
-Starlight
-Startup Time
-Ugly Scoreboard Fix
-Xaero's Minimap
-Xaero's World Map
-YOSBR
-Zume
-lazy-language-loader
-```
-</details>
+# My english is bad, im sorry if I said something wrong
